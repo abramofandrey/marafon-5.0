@@ -87,7 +87,7 @@ body {
 }
 
 .main {
-  background-image: url(/image/main-banner.png);
+  background-image: url(image/main-banner.png);
   background-repeat: no-repeat;
   margin-top: -135px;
 }
